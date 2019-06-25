@@ -1,0 +1,3 @@
+^a::
+Send, ^+{Tab}
+return
