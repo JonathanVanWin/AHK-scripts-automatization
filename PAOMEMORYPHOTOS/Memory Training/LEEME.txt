@@ -1,0 +1,7 @@
+Speed Memory v7 requiere la instalación de Windows .Net Framework 4 (incluida con el nombre de “dotNetFx40_Full_setup.exe”). También puede descargarse desde la página oficial de microsoft:
+
+https://www.microsoft.com
+
+Tras la instalación reinicie el pc. La carpeta SM v7 puede moverse a cualquier ubicación del disco duro.
+
+
